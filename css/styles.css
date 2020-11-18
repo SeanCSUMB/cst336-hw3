@@ -1,0 +1,40 @@
+form{
+    border-color: blue;
+    border-width: 2px;
+    border-style:inset;
+}
+
+body{
+    text-align:center;
+    background-color: black;
+    color: gray;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#genderOption{
+    visibility:hidden;
+}
+
+h1{
+    font-family: 'Goldman', cursive;
+    background-color: purple;
+    color: white;
+}
+
+#result{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#numberError{
+    color:red;
+}
+
+#emptyError{
+    color:red;
+}
+
+figcaption{
+    font-size:.5em;
+}
